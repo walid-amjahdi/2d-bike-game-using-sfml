@@ -1,0 +1,5 @@
+*.obj
+*.o
+.vs/
+out/
+bin/
