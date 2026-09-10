@@ -21,7 +21,7 @@ void About()
 	(
 		"About the Game:\n"
 		"Game Title: Leo's Adventure\n"
-		"Developer(s): WALID AMJAHDI & OUMAHA MALIKA\n"
+		"Developer(s): WALID AMJAHDI \n"
 		"Institution: FSSM\n"
 		"Course: Mini Project in C++\n"
 		"Academic Year: 2025\n\n"
