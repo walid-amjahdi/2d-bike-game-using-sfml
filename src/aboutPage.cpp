@@ -59,7 +59,7 @@ void About()
 		"about the game, or quit.\n"
 		"- Visuals: Simple and colorful 2D graphics.\n\n"
 		"Credits:\n"
-		"Development: WALID AMJAHDI , OUMAHA MALIKA\n"
+		"Development: WALID AMJAHDI\n"
 		"Graphics: WALID AMJAHDI\n"
 		"Special Thanks: Prof  R.HANNANE"
 	);
